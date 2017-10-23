@@ -1,0 +1,15 @@
+{
+  "name": "sannikay",
+  "version": "1.0.0",
+  "description": "raindrops",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "keywords": [
+    "TTD",
+    "js"
+  ],
+  "author": "sannikay",
+  "license": "ISC"
+}
