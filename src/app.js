@@ -13,7 +13,7 @@ export default {
               remainder /= i;
           }
       }
-      console.log(factors);
+    //   console.log(factors);
       let is3 = false;
       let is5 = false;
       let is7 = false;
