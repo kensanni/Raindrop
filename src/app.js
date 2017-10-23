@@ -1,5 +1,8 @@
 export default {
   rainDrops: (value) => {
+    if (!value){
+        return ("Input must be a number");
+    }
     if (value <= 0){
     return ("Input should not be a negative number")
   } else if(typeof value === "number"){
